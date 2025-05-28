@@ -37,7 +37,7 @@ Step 4: Enjoy :)
 
 **THE PROJECT HAS ENCOUNTERED A BUG BECAUSE OF THE CRYPTOGRAPHY LIBRARY BEING UPDATED. IF YOU ARE INTRESTED IN COLLABORATING TO IMPROVE THIS PROJECT FEEL FREE TO CONTACT ME :**
 
-Shivang Srivastava	-	shivang.8@geu.ac.in<br/>
+Dhanushi Purohit - purohitdhanushi01@gmail.com <br/>
 =======
 # SecureFileStorage
 >>>>>>> 0d6958613ed29116ee0559d96ee956770eb561f9
